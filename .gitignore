@@ -1,2 +1,5 @@
-*.DS_Store
+img/*.DS_Store
 Thumbs.db
+tmp/
+*.*_old
+*.*_backup
